@@ -85,7 +85,7 @@ const UserUrl = () => {
                       rel="noopener noreferrer"
                       className="text-blue-600 hover:text-blue-900 hover:underline"
                     >
-                      {`localhost:3000/${url.short_url}`}
+                      {`http://localhost:3000/${url.short_url}`}
                     </a>
                   </div>
                 </td>
